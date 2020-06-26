@@ -1,7 +1,7 @@
-###
-Example for using git-lfs
+##
+git-lfs example
 
-## Setup
+### Setup
   ```
   brew install git-lfs
   cd lfs_example
@@ -9,8 +9,7 @@ Example for using git-lfs
   ```
 
 
-## Command to add file extension for git lfs
+### Command to add file extension for git lfs
   ```
      git lfs track "*.pdf"
   ```
-
